@@ -8,7 +8,7 @@ Features to add:
 Redesign enclosure with USB cutout, reduce size of screw holders to fit Nano between
 
 
-
+**************************************************************
 20240703 Complete assembly and add all files to DC github repo
 
 
